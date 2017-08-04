@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
+url: http://sandipmavani.tk/
+title: Sandip Mavani
+email: mavanisandip94@gmail.com
+author: Sandip Mavani
 description: > # "Wesley Wei Qian's Personal Page"
 
 # ----------------------- #
@@ -26,16 +26,16 @@ gems:
 social:
   - icon: medium
     title: blog
-    url: https://medium.com/thoughts-and-notes
+    url: https://medium.com/@mavanisandip94
   - icon: envelope-o
     title: email
-    url: mailto:wesley.chin0919@gmail.com
+    url: mailto:mavanisandip94@gmail.com
   - icon: github
     title: github
-    url: https://github.com/WesleyyC
+    url: https://github.com/sandipmavani
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
+    url: https://www.linkedin.com/in/sandipmavani
   - icon: file-pdf-o
     title: resume
     url: http://www.wesleyq.me/rsc/resume.pdf

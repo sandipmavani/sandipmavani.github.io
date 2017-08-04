@@ -1,6 +1,6 @@
 ---
 layout: default
-img: meracrm-01.png
+img: meracrm-03.png
 category: Projects
 title: MeraCRM
 description: |

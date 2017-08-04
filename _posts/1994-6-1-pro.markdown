@@ -1,12 +1,12 @@
 ---
 layout: default
-img: 33-1-1-pro.png
+img: connectly-02.png
 category: Projects
-title: "Contact Transfer"
+title: "Connectly"
 description: |
 ---
-* Created a [contact transfer Android Application](https://github.com/WesleyyC/ContactTransfer) that transfers users’ contact and social platform info in a quick manner using NFC or QR Code
+* FAST, SIMPLE, PERSONAL, FREE: Connectly is super fast. With sent, delivered, read and typing notifications, it feels like you're having a chat with someone in person. The app uses your 2G, 3G or Wi-Fi (when available) to message with friends and family. 
 
-* Worked with Android Beam API for NFC support, ZXing Project for QR code support and Parse backend in Android Studio
+* Worked with Node.js With Mongodb and CouchBase.
 
-* Presented the application at Google Tech Corner and won the runner-up for Engineer’s Choice
+* Use socket.io technology for fast responde message

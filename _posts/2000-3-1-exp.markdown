@@ -1,14 +1,14 @@
 ---
 layout: default
-img: 10-1-1-exp.png
+img: google-02.jpg
 category: Experiences
-title: Google CodeU Participant
+title: Actions on Google Developer Challenge
 description: |
 ---
-* Participated CodeU, an exclusive dev program for high potential students to strengthen their skills
+* Create Application on Google Action
 
 
-* Worked with three other participants to create a contact transfer Android application that transfers users’ contact and social platform info with NFC or QR Code
+* Create intelligent experiences on the Google Assistant, using one of the many development and analytics tools that are compatible with Actions on Google.
 
 
-* Presented the application at Google Tech Corner and won the runner-up for Engineer’s Choice
+* Make application Using API.AI and google Action.

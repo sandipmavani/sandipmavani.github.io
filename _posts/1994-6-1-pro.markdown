@@ -1,6 +1,6 @@
 ---
 layout: default
-img: connectly-02.png
+img: connectly-03.png
 category: Projects
 title: "Connectly"
 description: |

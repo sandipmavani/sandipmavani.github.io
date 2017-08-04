@@ -1,0 +1,13 @@
+---
+layout: default
+img: 60-1-1-pro.png
+category: Projects
+title: "For more..."
+description: |
+---
+
+* Please visit my [GitHub repo](https://github.com/WesleyyC)
+
+* Or visit my [LinkedIn profile](https://www.linkedin.com/in/wesleychin0919)
+
+* Or read my [Medium blog](https://medium.com/thoughts-and-notes)

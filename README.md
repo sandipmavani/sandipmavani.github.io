@@ -1,5 +1,5 @@
 
-# <a href="http://www.wesleyq.me"> wesleyq.me </a>
+# <a href="http://sandipmavani.github.io"> sandipmavani.github.io </a>
 
 This repository contains the code for my personal website.
 

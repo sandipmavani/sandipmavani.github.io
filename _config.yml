@@ -39,3 +39,5 @@ social:
   - icon: file-pdf-o
     title: resume
     url: http://www.wesleyq.me/rsc/resume.pdf
+
+theme: jekyll-theme-cayman

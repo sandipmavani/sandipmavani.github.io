@@ -6,8 +6,8 @@ title: "For more..."
 description: |
 ---
 
-* Please visit my [GitHub repo](https://github.com/WesleyyC)
+* Please visit my [GitHub repo](https://github.com/sandipmavani)
 
-* Or visit my [LinkedIn profile](https://www.linkedin.com/in/wesleychin0919)
+* Or visit my [LinkedIn profile](https://www.linkedin.com/in/sandipmavani/)
 
-* Or read my [Medium blog](https://medium.com/thoughts-and-notes)
+* Or read my [Dev.to blog](https://dev.to/sandipmavani)

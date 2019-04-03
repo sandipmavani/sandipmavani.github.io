@@ -38,6 +38,6 @@ social:
     url: https://www.linkedin.com/in/sandipmavani
   - icon: file-pdf-o
     title: resume
-    url: http://www.wesleyq.me/rsc/resume.pdf
+    url: https://raw.githubusercontent.com/sandipmavani/sandipmavani.github.io/master/rsc/sandip.pdf
 
 theme: jekyll-theme-cayman
